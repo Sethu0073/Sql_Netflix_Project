@@ -1,4 +1,8 @@
 *.sql linguist-language=SQL
 *.sql linguist-detectable=true
 * linguist-detectable=false
+git add .gitattributes
+git commit -m "Update .gitattributes to set SQL as primary language"
+git push origin main
+
 
